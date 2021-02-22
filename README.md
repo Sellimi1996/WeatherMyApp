@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-My App is published at https://sellimi1996.github.io/WeatherMyApp/
+My App is published at https://weathersellimiapp.netlify.app
 
 ## Available Scripts
 
